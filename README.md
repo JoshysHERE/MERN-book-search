@@ -1,1 +1,1 @@
-# MERN-book-search
+# Joshy's Mern Project
