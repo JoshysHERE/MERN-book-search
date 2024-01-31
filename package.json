@@ -17,6 +17,7 @@
     "concurrently": "^5.1.0"
   },
   "dependencies": {
-    "@apollo/client": "^3.8.10"
+    "@apollo/client": "^3.8.10",
+    "node": "^21.6.1"
   }
 }
